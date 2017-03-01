@@ -7,9 +7,9 @@ This application is my first application. The Application currently manages scor
 
 ### Future Work
 Will add a working Timer in the application following features
- -Set Timer
- -Pause Timer
- -Reset Timer
+ - Set Timer
+ - Pause Timer
+ - Reset Timer
 
 ### CREATOR
 Basketball Game Counter (Android App) was created by and is maintained by Sheraz Ahmed.
