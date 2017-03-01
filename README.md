@@ -1,7 +1,7 @@
 # [Basketball Game Counter (Android App)](https://github.com/isheraz/basketball-courtCounter.git)
 This application is my first application. The Application currently manages score for two teams playing basketball.
 
-[![ghit.me](https://ghit.me/badge.svg?style=flat-square&repo=isheraz/know-more)](https://ghit.me/repo/isheraz/basketball-courtCounter)
+[![ghit.me](https://ghit.me/badge.svg?repo=isheraz/basketball-courtCounter)](https://ghit.me/repo/isheraz/basketball-courtCounter)
 [![GitHub issues](https://img.shields.io/github/issues/isheraz/know-more.svg?style=flat-square)](https://github.com/isheraz/basketball-courtCounter/issues)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/isheraz/basketball-courtCounter/master/LICENSE.txt)
 
